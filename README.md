@@ -18,6 +18,8 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
     </a>
     <a href="https://www.linkedin.com/in/md-sakil-islam-8b7b45160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-sakil-islam-8b7b45160" height="30" width="40" /></a>
+      <a href="https://web.facebook.com/shakil.islam.543" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shakil.islam.543" height="30" width="40" /></a>
+  
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
