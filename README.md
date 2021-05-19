@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sakilislam38@gmail.com**
 
-- 📄 Know about my experiences [https://sakil-islam.github.io/cv/](https://sakil-islam.github.io/cv/)
+- 📄 Know about my experiences [https://sakil-islam.github.io/cv/Md_Sakil_Islam_CV.pdf](https://sakil-islam.github.io/cv/Md_Sakil_Islam_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
