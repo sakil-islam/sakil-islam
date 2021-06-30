@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🌱 Framework: **Django, ReactJs, Node js,Express**
+- 🌱 Framework: **Django, Modern Javascript library like React.js **
 
 - 👨‍💻 All of my projects are available at [https://sakil-islam.github.io/cv/](https://sakil-islam.github.io/cv/)
 
