@@ -44,3 +44,17 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakil-islam&show_icons=true&locale=en" alt="sakil-islam" /></p>
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakil-islam)
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakil-islam)  
+  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sakil-islam)  
+
+![Profile views](https://gpvc.arturio.dev/sakil-islam)
