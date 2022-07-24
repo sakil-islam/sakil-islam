@@ -52,7 +52,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakil-islam)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakil-islam)   -->
   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sakil-islam)  
