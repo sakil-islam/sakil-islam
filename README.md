@@ -48,8 +48,18 @@
 
 
 
+
+
+
+
+## 🌟 Github Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakil-islam)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakil-islam&layout=compact&langs_count=10)](https://github.com/sakil-islam)
+
+
+<br/>
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakil-islam)   -->
