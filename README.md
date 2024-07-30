@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Sakil Islam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+## 🏯 Work Experience:
+**Eon Infosys Technology** (website: https://eoninfosys.net) <br>
+**Frontend Developer** [November 2023 ‑ Present] (almost 1 year) <br><br>
+
+**TechOptions** (website: https://www.techoptions.com.bd) <br>
+**Junior Software Developer** [November 2021 ‑ November 2023] (2 years) <br><br>
+
 
 - 🌱 Framework: **Django, Modern Javascript library like React.js,Redux, React-Hooks, Nextjs **
 
@@ -68,3 +75,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sakil-islam)  
 
 ![Profile views](https://gpvc.arturio.dev/sakil-islam)
+
+> [!IMPORTANT]  
+> 𝗡𝗼𝘁𝗲 𝗥𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆:
+> My GitHub profile might seem inactive or empty because my current employer, **Eon Infosys Technology**, utilizes different **GitHub** and **GitLab** accounts associated with their _email address_. Additionally, we use Eon Infosys Technology's internal *GitLab* for source code management to maintain security and compliance for specific projects.
