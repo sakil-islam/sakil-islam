@@ -37,7 +37,7 @@
 ✏️ Pixel Perfect designing for Page development using built-in components, Bug fixing, and Reducing complexity. <br>
 🤝 With a wealth of experience, I am not only adept at developing projects from scratch but also capable of leading the entire development process. <br>
 📧 If you're looking for a skilled developer who can handle both _Frontend_ and _Backend_ development, and thrives in a fast-paced, agile environment, I'd love to connect! <br>
-📜 **Undergraduate Research paper** <strong><a href="https://drive.google.com/file/d/1bWa1TUPRkQQ0Wc5tqlWf4K4KCbZaPPDr/view?usp=drive_link" target="_blank">GLGP: A Modified Local Gradient Pattern Using Geometric Mean for Image Classification</a></strong>
+📜 **Research paper** <strong><a href="https://drive.google.com/file/d/1bWa1TUPRkQQ0Wc5tqlWf4K4KCbZaPPDr/view?usp=drive_link" target="_blank">GLGP: A Modified Local Gradient Pattern Using Geometric Mean for Image Classification</a></strong>
     
 ###  📰 𝑴𝒚 𝑹𝒆𝒔𝒖𝒎𝒆: 
  [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1U1IYWcGzASxqqnVs8idNWRkoe4aO_R7f/view?usp=sharing) 
@@ -99,7 +99,7 @@
 
 > [!IMPORTANT]  
 > 𝗡𝗼𝘁𝗲 𝗥𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆:
-> My GitHub profile might seem inactive or empty because my current employer, **Eon Infosys Technology**, utilizes different **GitHub** and **GitLab** accounts associated with their _email address_. Additionally, we use Eon Infosys Technology's internal *GitLab* for source code management to maintain security and compliance for specific projects.
+> My GitHub profile might seem inactive or empty because my current employer, **Eon Infosys Technology**, utilizes different **GitHub** and **GitLab** accounts associated with their _email address_. Additionally, we use Eon Infosys Technology's internal **GitLab** for source code management to maintain security and compliance for specific projects.
 
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{sakil-islam}/count.svg/" alt="Md Sakil Islam Visitor's count" /></p>
