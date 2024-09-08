@@ -37,7 +37,7 @@
 ✏️ Pixel Perfect designing for Page development using built-in components, Bug fixing, and Reducing complexity. <br>
 🤝 With a wealth of experience, I am not only adept at developing projects from scratch but also capable of leading the entire development process. <br>
 📧 If you're looking for a skilled developer who can handle both _Frontend_ and _Backend_ development, and thrives in a fast-paced, agile environment, I'd love to connect! <br>
-📜 **Research paper** <strong><a href="https://drive.google.com/file/d/1bWa1TUPRkQQ0Wc5tqlWf4K4KCbZaPPDr/view?usp=drive_link" target="_blank">GLGP: A Modified Local Gradient Pattern Using Geometric Mean for Image Classification</a></strong>
+📜 **Research paper** <strong><a href="https://drive.google.com/file/d/1z37MJcbn3ZddDHuuJuerA6IU43wXHrrs/view?usp=sharing" target="_blank">GLGP: A Modified Local Gradient Pattern Using Geometric Mean for Image Classification</a></strong>
     
 ###  📰 𝑴𝒚 𝑹𝒆𝒔𝒖𝒎𝒆: 
  [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1U1IYWcGzASxqqnVs8idNWRkoe4aO_R7f/view?usp=sharing) 
