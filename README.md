@@ -9,7 +9,7 @@
 
 ## 🏯 Work Experience:
 **Eon Infosys Technology** (website: https://eoninfosys.net) <br>
-**Frontend Developer** [November 2023 ‑ Present] (almost 1 year) <br><br>
+**Frontend Developer** [November 2023 ‑ Present] (almost 2 year) <br><br>
 
 **TechOptions** (website: https://www.techoptions.com.bd) <br>
 **Junior Software Developer** [November 2021 ‑ November 2023] (2 years) <br><br>
