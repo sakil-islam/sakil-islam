@@ -3,7 +3,7 @@
 <h3 align='center'><strong><a href="https://sakil-protfolio.vercel.app" target="_blank">🌐Portfolio</a></strong></h3>
 
 <p align="center">
-  <a href="https://github.com/sakil-islam/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer!;3%2B%20years%20of%20Coding%20Experience!%20;Experienced%20Web%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/sakil-islam/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer!;4%20years%20of%20Coding%20Experience!%20;Experienced%20Web%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
 </p>
 
