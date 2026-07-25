@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Md Sakil Islam</h1>
-<h3 align="center">Software Enginner | Full Stack Developer | Web Developer</h3>
+<h3 align="center">Senior Software Enginner | Full Stack JavaScript Developer | React · Next.js · Node.js </h3>
 <h3 align='center'><strong><a href="https://sakil-protfolio.vercel.app" target="_blank">🌐Portfolio</a></strong></h3>
 
 <p align="center">
-  <a href="https://github.com/sakil-islam/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer!;4%20years%20of%20Coding%20Experience!%20;Experienced%20Web%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/sakil-islam/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer!;5%20years%20of%20professional%20full%20stack%20Experience!%20;Experienced%20Web%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
 </p>
 
 ## 🏯 Work Experience:
 **Eon Infosys Technology** (website: https://eoninfosys.net) <br>
-**Frontend Developer** [November 2023 ‑ Present] (almost 2 year) <br><br>
+**Senior Programmer** [August 2026 ‑ Present] (present) <br><br>
+
+**Eon Infosys Technology** (website: https://eoninfosys.net) <br>
+**Frontend Developer** [November 2023 ‑ July 2026] (2 years 9 months) <br><br>
 
 **TechOptions** (website: https://www.techoptions.com.bd) <br>
 **Junior Software Developer** [November 2021 ‑ November 2023] (2 years) <br><br>
@@ -30,7 +33,7 @@
 </p>
 
 ## 💻 About Myself:
-✏️ **4 years** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
+✏️ **5 years** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
 🚀 _Highly skilled and experienced_ in **React.js** and **Next.js** project development. <br>
 📮 _API_ creation in **Node js** and **Express js** with proper architecture ensures scalability and maintainability of the codebase. <br>
 ✏️ Experienced in designing large-scale Development of websites using the Atomic Design Principle, Block Element Modifier(BEM) method, and Base Case Domain(BCD) methods. <br>
