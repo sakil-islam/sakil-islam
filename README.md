@@ -97,5 +97,5 @@
 > 𝗡𝗼𝘁𝗲 𝗥𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆:
 > My GitHub profile might seem inactive or empty because my current employer, **Eon Infosys Technology**, utilizes different **GitHub** and **GitLab** accounts associated with their _email address_. Additionally, we use Eon Infosys Technology's internal **GitLab** for source code management to maintain security and compliance for specific projects.
 
-<h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{sakil-islam}/count.svg/" alt="Md Sakil Islam Visitor's count" /></p>
+<!-- <h3 align="center">Visitor's count</h3>
+<p align="center"><img src="https://profile-counter.glitch.me/{sakil-islam}/count.svg/" alt="Md Sakil Islam Visitor's count" /></p> -->
