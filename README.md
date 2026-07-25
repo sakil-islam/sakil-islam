@@ -7,15 +7,52 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
 </p>
 
-## 🏯 Work Experience:
-**Eon Infosys Technology** (website: https://eoninfosys.net) <br>
-**Senior Programmer** [August 2026 ‑ Present] (present) <br><br>
+<hr>
 
-**Eon Infosys Technology** (website: https://eoninfosys.net) <br>
-**Frontend Developer** [November 2023 ‑ July 2026] (2 years 9 months) <br><br>
+## 🏯 Professional Experience
 
-**TechOptions** (website: https://www.techoptions.com.bd) <br>
-**Junior Software Developer** [November 2021 ‑ November 2023] (2 years) <br><br>
+<!-- ———————— SENIOR PROGRAMMER & LEAD ROLE ———————— -->
+### Senior Programmer (Full Stack JavaScript Developer) | <a href="https://eoninfosys.net">Eon Infosys Technology</a>
+🗓️ *August 2026 ‑ Present* | 📍 Dhaka, Bangladesh
+
+> **Role Overview:** Acting as a key bridge between technical execution and project management, balancing core full-stack development.
+
+#### **🛠️ Core Responsibilities & Leadership:**
+- **Product Engineering:** Engineered responsive and dynamic flagship products using **React.js** and **Next.js** within a strict **TypeScript** environment.
+<!--
+- **Backend Architecture:** Designing and implementing robust, scalable **backend solutions** with **Node.js, NestJS, and Express.js**, emphasizing security and performance.
+- **Data Engineering:** Architecting complex database schemas and optimizing query performance for **MySQL** and **MongoDB**. -->
+- **Delivery Management:** Ensuring end-to-end delivery of core features and products by aligning technical implementations with business requirements.
+
+---
+
+<!-- ———————— FRONTEND DEVELOPER ROLE ———————— -->
+### Frontend Developer (React & Next.js Specialization) | <a href="https://eoninfosys.net">Eon Infosys Technology</a>
+🗓️ *November 2023 ‑ July 2026* | 📍 Dhaka, Bangladesh | **🎯 2 Years 9 Months**
+
+> **Role Overview:** Dedicated to creating modern, performant, and maintainable user experiences using the React ecosystem.
+
+#### **🛠️ Focus & Impact:**
+- **Product Engineering:** Engineered responsive and dynamic flagship products using **React.js** and **Next.js** within a strict **TypeScript** environment.
+- **Architectural Standards:** Championed maintainable frontend code using **Atomic Design** principles, **BEM** methodologies, and base domain architecture.
+- **Performance Optimization:** Drastically reduced bundle sizes and optimized runtime performance, ensuring smooth interaction with large, complex datasets.
+- **DX Improvements:** Introduced and established optimized **CI/CD** workflows via **GitHub Actions** and strict linting (ESLint, Prettier).
+
+---
+
+<!-- ———————— JUNIOR FULL STACK ROLE ———————— -->
+### Junior Software Developer (Full Stack - Python/Django focus) | <a href="https://www.techoptions.com.bd">TechOptions</a>
+🗓️ *November 2021 ‑ November 2023* | 📍 Dhaka, Bangladesh | **🎯 2 Years**
+
+> **Role Overview:** Joined as a Full Stack Developer, actively contributing to diverse projects across the entire stack.
+
+#### **🛠️ Foundational Work:**
+- **Full Stack Delivery:** Contributed significantly to both the frontend (**React**) and backend (**Python/Django**) of multiple live projects.
+- **Feature Ownership:** Took ownership of key modules, building APIs and implementing dynamic user interfaces under direct mentorship.
+- **Complexity Reduction:** Specialized in converting design mocks to pixel-perfect code while ensuring backend performance during integration.
+- **Team Integration:** Mastered agile practices, source control management (**Git**), and effective cross-team communication in a production environment.
+
+<hr>
 
 <div align="center">
 <br/><br/>
