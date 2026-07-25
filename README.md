@@ -17,6 +17,14 @@
 **TechOptions** (website: https://www.techoptions.com.bd) <br>
 **Junior Software Developer** [November 2021 ‑ November 2023] (2 years) <br><br>
 
+<div align="center">
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Ravikantmahi&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Ravikantmahi?label=Followers&style=flat-square&color=818CF8&labelColor=0a0a0f" />
+
+</div>
+
 ## 🌐 Connect with me:
 
 <p align="center">
