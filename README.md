@@ -40,10 +40,16 @@
   <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-## 💻 About Myself:
+## 💻 About Me
+
+A passionate **Full Stack JavaScript Developer** from Bangladesh with a problem-solving mindset and **over 5 years of professional experience**, comfortable working across the entire development stack.
+I focus on reusability, maintainability, and security while collaborating with global teams to deliver production-grade solutions.
+
 ✏️ **5 years** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
-🚀 _Highly skilled and experienced_ in **React.js** and **Next.js** project development. <br>
-📮 _API_ creation in **Node js** and **Express js** with proper architecture ensures scalability and maintainability of the codebase. <br>
+🖥️ **Frontend Mastery:** Creates maintainable, pixel-perfect UIs with **React.js, Next.js, and TypeScript**, utilizing Atomic Design and BEM methods. <br>
+📮 **Backend Expertise:** Specializes in building scalable, secure, and performant APIs and microservices using **Node.js, NestJS, and Express.js**. <br>
+💾 **Data & Messaging:** Experienced with **MySQL, MongoDB**, and message-driven systems like **RabbitMQ and Kafka**. <br>
+🛠️ **DevOps & Testing:** Proficient in **CI/CD (GitHub Actions, Jenkins), Docker, Kubernetes**, and automated testing (unit, API, integration).<br>
 ✏️ Experienced in designing large-scale Development of websites using the Atomic Design Principle, Block Element Modifier(BEM) method, and Base Case Domain(BCD) methods. <br>
 ✏️ Pixel Perfect designing for Page development using built-in components, Bug fixing, and Reducing complexity. <br>
 🤝 With a wealth of experience, I am not only adept at developing projects from scratch but also capable of leading the entire development process. <br>
