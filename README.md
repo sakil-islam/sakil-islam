@@ -94,7 +94,7 @@ I focus on reusability, maintainability, and security while collaborating with g
 📜 **Research paper** <strong><a href="https://drive.google.com/file/d/1bWa1TUPRkQQ0Wc5tqlWf4K4KCbZaPPDr/view?usp=drive_link" target="_blank">GLGP: A Modified Local Gradient Pattern Using Geometric Mean for Image Classification</a></strong>
 
 ###  📰 𝑴𝒚 𝑹𝒆𝒔𝒖𝒎𝒆: 
- [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aDw_uXxjBIS_BC2C4gMe8Q48ZI3bFWh1/view?usp=sharing) 
+ [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Y-bnAKAReTmB04ZW1SJ8_gyeGtN9q1B2/view?usp=drive_link) 
 
  ## 🎓 Education:
  **University of Barishal** <br>
